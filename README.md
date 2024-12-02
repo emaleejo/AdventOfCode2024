@@ -1,2 +1,2 @@
 # AdventOfCode2024
- adventofcode.com
+[ adventofcode.com](https://adventofcode.com/2024)
