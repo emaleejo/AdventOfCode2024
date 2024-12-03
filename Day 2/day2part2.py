@@ -4,6 +4,7 @@ def is_safe(data):
         return True
     return False
 
+
 def is_safe_with_dampener(data):
     if is_safe(data):
         return True
@@ -12,6 +13,7 @@ def is_safe_with_dampener(data):
         if is_safe(new_data):
             return True
     return False
+
 
 input = open("day2.txt")
 input = input.readlines()
